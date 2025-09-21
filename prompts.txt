@@ -1,0 +1,70 @@
+pls generate a complete website with the following details 
+Here's a comprehensive, single prompt tailored for **Lovable** (or any AI website builder) to generate a **modern, dark-themed, sleek, innovative UI/UX website** for your **Smart Civic Issue Reporting System** project:
+
+---
+
+**🟣 Prompt for Lovable:**
+
+> Design a **modern, sleek, and innovative website** for a project titled **“Smart Civic Issue Reporting System”**, aimed at empowering citizens to report civic infrastructure issues (like potholes, garbage, streetlight faults) via an Android app. The website should have a **dark theme** with clean, responsive UI, smooth scroll-based **animations**, subtle **micro-interactions**, and **nudges** that guide users through the **end-to-end journey**.
+>
+> Key Requirements:
+>
+> 1. **Homepage** with a powerful hero section featuring an animation or mockup of the mobile app in action, a catchy tagline like “Transforming Cities, One Report at a Time”, and a call-to-action button to download the app.
+>
+> 2. **How It Works** section explaining the 3-step process:
+>
+>    * Capture the issue (camera + GPS)
+>    * System analyzes severity (AI/ML)
+>    * Authorities take action (smart workflow)
+>      Use vector illustrations or smooth Lottie animations here.
+>
+> 3. **Features** section:
+>
+>    * Real-time reporting with GPS tagging
+>    * Smart severity detection (CNN-RNN + NLP)
+>    * User-friendly interface
+>    * Prioritization of critical issues
+>    * Admin dashboard for officials
+>      Include hover animations and interactive cards.
+>
+> 4. **User Journey** flow (timeline or step-by-step visual) from opening the app → submitting a report → issue resolution tracking.
+>
+> 5. **Dashboard Previews**: Mockups or animated previews of the admin and official dashboards showing data analytics, heatmaps, report lists, and alerts.
+>
+> 6. **About / Mission Section** emphasizing smart city goals, citizen-government collaboration, and infrastructure improvement.
+>
+> 7. **Testimonials** or potential impact stories to build credibility.
+>
+> 8. **Download App CTA** with buttons linking to Play Store (and optionally App Store).
+>
+> 9. **Contact / Feedback** form for general inquiries.
+>
+> 10. **Footer** with navigation links, social media icons, and copyright.
+>
+> Technical Design Notes:
+>
+> * Use a **dark theme** with **neon-accented colors** (e.g., blue, violet, or teal highlights)
+> * Include subtle transitions, fade-ins, parallax effects, and scroll-triggered animations
+> * Ensure mobile responsiveness and accessibility
+> * Font pairing should be modern and readable (e.g., Inter + Poppins or similar)
+> * Add iconography that complements civic tech and smart cities (e.g., map pins, cameras, AI brains, gears)
+>
+> The tone should feel **innovative, civic-minded, trustworthy, and citizen-first**.
+
+---
+
+This prompt gives Lovable a crystal-clear direction to generate a website that's visually compelling, UX-friendly, and aligned with your civic-tech innovation. Want me to help draft the actual page content or copy too
+change the font theme color the match the colors of the indian flag and change the background color to dark
+change the icon colors to match it with the indian flag color
+add a toggle button the top to switch modes between dark theme and light theme
+change the address to:
+"BMSIT, Yelahanka Bengaluru"
+and the email adress to : "innovastra@smartcivic.app"
+remove it
+change the background color to this: "(#282828)"
+change the background color to this:"#121212"
+Remove the what people say section from the website
+remove this image from the website
+change this to  "innovastra2025@gmail.com"
+optimize the image dimensions to be suitable 
+adjust the image dimenaions to match with the other image dimesnions in this website
